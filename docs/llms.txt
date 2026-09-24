@@ -1,0 +1,10 @@
+# discord-zapret
+
+discord-zapret чинит обрыв до голосовых серверов Discord. Распаковали архив, запустили .bat от администратора — звонки снова идут.
+
+discord-zapret чинит обрыв до голосовых серверов Discord. Распаковали архив, запустили .bat от администратора — звонки снова идут. обход блокировки Discord, Discord не подключается, Discord connecting исправить, голосовой чат Discord не работает. Windows 10 и 11, без VPN.
+
+Релиз: https://github.com/storageiguanatomb/discord-zapret/releases/latest
+Код: https://github.com/storageiguanatomb/discord-zapret
+Основа: https://github.com/bol-van/zapret
+Страница: https://github.com/storageiguanatomb/discord-zapret
